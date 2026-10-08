@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "sample-en-v1",
+  "title": "Starter practice bank",
+  "language": "en",
+  "questions": [
+    {
+      "id": "sample-001",
+      "prompt": "What is 7 \u00d7 8?",
+      "topic": "mathematics",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "48"
+        },
+        {
+          "id": "b",
+          "text": "54"
+        },
+        {
+          "id": "c",
+          "text": "56"
+        },
+        {
+          "id": "d",
+          "text": "64"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Seven groups of eight total 56."
+    },
+    {
+      "id": "sample-002",
+      "prompt": "What is one half of 90?",
+      "topic": "mathematics",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "30"
+        },
+        {
+          "id": "b",
+          "text": "40"
+        },
+        {
+          "id": "c",
+          "text": "45"
+        },
+        {
+          "id": "d",
+          "text": "50"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "90 divided by 2 is 45."
+    },
+    {
+      "id": "sample-003",
+      "prompt": "Which number is prime?",
+      "topic": "mathematics",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "9"
+        },
+        {
+          "id": "b",
+          "text": "15"
+        },
+        {
+          "id": "c",
+          "text": "17"
+        },
+        {
+          "id": "d",
+          "text": "21"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "17 has only two positive divisors: 1 and 17."
+    },
+    {
+      "id": "sample-004",
+      "prompt": "Which planet is closest to the Sun?",
+      "topic": "science",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Earth"
+        },
+        {
+          "id": "b",
+          "text": "Mars"
+        },
+        {
+          "id": "c",
+          "text": "Mercury"
+        },
+        {
+          "id": "d",
+          "text": "Jupiter"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Mercury is the closest planet to the Sun."
+    },
+    {
+      "id": "sample-005",
+      "prompt": "What is the chemical formula for water?",
+      "topic": "science",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "CO2"
+        },
+        {
+          "id": "b",
+          "text": "H2O"
+        },
+        {
+          "id": "c",
+          "text": "O2"
+        },
+        {
+          "id": "d",
+          "text": "NaCl"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "A water molecule contains two hydrogen atoms and one oxygen atom."
+    }
+  ]
+}
